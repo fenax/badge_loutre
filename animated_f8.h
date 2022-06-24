@@ -1,0 +1,1 @@
+/home/kasil/Arduino/badge_loutre/animated_f8.xbm
