@@ -1,5 +1,7 @@
 # badge_loutre
-Just a little badge / game thing with arduino
+Gameboy Inspired mini game console
+
+built with ESP8266 and SPI OLED display
 
 ![Front](front.jpg)
 ![Back](back.jpg)
